@@ -1,0 +1,42 @@
+!! Installation Guide !!
+
+
+--> Just follow these steps.
+
+
+Step-01 Right click and Extract the zip file that uploaded here.
+
+Step-02 Make sure extracted file should be in one folder (if there are subfolder put the files in one folder).
+
+Step-03 Put the extracted folder (BBMS) in xampp/htdocs folder.
+
+Step-04 Now your project files should be here - xampp/htdocs/BBMS/project_files.
+
+Step-05 Now Open your xampp app and start mysql and apache services.
+
+Step-06 Make sure apache and mysql services are running properly.
+
+Step-07 Now go to your browser and type: localhost
+
+Step-08 Go to phpmyadmin
+
+Step-09 Create a database named 'bbms'
+
+Step-10 Now go to created database and click on 'import' tab.
+
+Step-11 Select database file (.sql file) that i have provided (Check database folder)
+
+Step-12 Click on import button on the bottom.
+
+Step-13 Now go to your browser and type: localhost/bbms/index.php
+
+Step-14 That's all.
+
+Step-15 Now you can login or register as an donor or patient.
+
+
+     Admin : 
+
+ --> Admin Gmail: admin@gmail.com
+
+ --> Admin password: admin123
